@@ -10,31 +10,27 @@ To try and play the game, visit one of the following links: [MIRROR 1](https://d
 
 ## Screenshots
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighPyramid2.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighBigPyramid_Transition.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighPyramidBiom.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01_Menu.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighBigPyramid_Transition.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_1stItemSelected.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01_Menu.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_2ndItemSelected.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_1stItemSelected.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_3rdItemSelected.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_2ndItemSelected.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_4thItemSelected.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_3rdItemSelected.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/02LevelSelect.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_4thItemSelected.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/03Scoreboard.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/02LevelSelect.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Defeat.PNG)
 
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/03Scoreboard.png)
-
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Defeat.png)
-
-![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Victory.png)
+![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Victory.PNG)
 
 ## Lessons learned
 
