@@ -10,31 +10,31 @@ To try and play the game, visit one of the following links: [MIRROR 1](https://d
 
 ## Screenshots
 
-![The Elder Scrolls: Loading Screen](screens/04Playing.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/04Playing_LighPyramid2.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighPyramid2.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/04Playing_LighPyramidBiom.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighPyramidBiom.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/04Playing_LighBigPyramid_Transition.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighBigPyramid_Transition.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/01_Menu.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01_Menu.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/01Menu_1stItemSelected.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_1stItemSelected.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/01Menu_2ndItemSelected.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_2ndItemSelected.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/01Menu_3rdItemSelected.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_3rdItemSelected.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/01Menu_4thItemSelected.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_4thItemSelected.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/02LevelSelect.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/02LevelSelect.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/03Scoreboard.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/03Scoreboard.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/04Playing_Defeat.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Defeat.png?raw=true)
 
-![The Elder Scrolls: Loading Screen](screens/04Playing_Victory.png?raw=true)
+![KeyboardRunner game screenshots](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Victory.png?raw=true)
 
 ## Lessons learned
 
