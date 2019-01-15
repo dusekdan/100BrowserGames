@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Keyboard Runner</title>
+    </head>
+    <script src="assets/libs/pixi.min.js"></script>
+    <body>
+        <!-- 
+            TODO: Refactor project structure.
+            - Once there is too many game managers and 'util-like' includes,
+            split managers into separate folder (proposed 'managers' or 
+            'game-managers') and put all the utils classes into utils.js file.
+        -->
+        <script type="text/javascript" src="utils.js"></script>
+        <script type="text/javascript" src="resource-loader.js"></script>
+        <script type="text/javascript" src="cloud-manager.js"></script>
+        <script type="text/javascript" src="biome-generator.js"></script>
+        <script type="text/javascript" src="wall-manager.js"></script>
+        <script type="text/javascript" src="screen-manager.js"></script>
+        <script type="text/javascript" src="foreground-manager.js"></script>
+        <script type="text/javascript" src="keyboard-reader.js"></script>
+        <script type="text/javascript" src="game-store.js"></script>
+        <script type="text/javascript" src="index.js"></script>
+
+        <!-- Part of the screen that will contain the game itself -->
+        <div id="the-play-screen" style="width: 1202px; margin: auto;"></div>
+    </body>
+</html>
