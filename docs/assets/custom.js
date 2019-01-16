@@ -1,0 +1,1 @@
+// Set up div click listeners to open games in new tabs... or not, we will see.

@@ -1,0 +1,21 @@
+.gamebox {
+    margin-bottom: 2rem;
+}
+
+.gameimage {
+    width: 90%;
+    
+}
+
+.image-wrapper {
+    width: 100%;
+}
+
+.emph {
+    font-weight: bold;
+}
+
+.gameopener-link {
+    text-decoration: none !important;
+    color: #000;
+}
