@@ -10,27 +10,27 @@ To try and play the game, visit one of the following links: [MIRROR 1](https://d
 
 ## Screenshots
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing.PNG)
+![KeyboardRunner game screenshot](screens/04Playing.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_LighBigPyramid_Transition.PNG)
+![KeyboardRunner game screenshot](screens/04Playing_LighBigPyramid_Transition.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01_Menu.PNG)
+![KeyboardRunner game screenshot](screens/01Menu.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_1stItemSelected.PNG)
+![KeyboardRunner game screenshot](screens/01Menu_1stItemSelected.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_2ndItemSelected.PNG)
+![KeyboardRunner game screenshot](screens/01Menu_2ndItemSelected.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_3rdItemSelected.PNG)
+![KeyboardRunner game screenshot](screens/01Menu_3rdItemSelected.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/01Menu_4thItemSelected.PNG)
+![KeyboardRunner game screenshot](screens/01Menu_4thItemSelected.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/02LevelSelect.PNG)
+![KeyboardRunner game screenshot](screens/02LevelSelect.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/03Scoreboard.PNG)
+![KeyboardRunner game screenshot](screens/03Scoreboard.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Defeat.PNG)
+![KeyboardRunner game screenshot](screens/04Playing_Defeat.PNG?raw=true)
 
-![KeyboardRunner game screenshot](https://raw.githubusercontent.com/dusekdan/100BrowserGames/master/002_KeyboardRunner/screens/04Playing_Victory.PNG)
+![KeyboardRunner game screenshot](screens/04Playing_Victory.PNG?raw=true)
 
 ## Lessons learned
 
